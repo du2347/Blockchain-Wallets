@@ -44,6 +44,7 @@ Integrating Ethereum blockchain in KryptoJobs2Go revolutionizes the fintech hiri
 ## Deployment Instructions:
 
 1. Ensure the Conda dev environment is active.
-2. Run the command 'streamlit run fintech_finder.py' in the terminal.
-3. Select a candidate, input hours, and click 'Send Transaction.'
-4. Inspect the transaction details in Ganache for validation.
+2. Launch and create quickstart workspace in Ganache.
+3. Run the command 'streamlit run fintech_finder.py' in the terminal.
+4. Select a candidate, input hours, and click 'Send Transaction.'
+5. Inspect the transaction details in Ganache for validation.
