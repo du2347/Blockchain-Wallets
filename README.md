@@ -48,3 +48,10 @@ Integrating Ethereum blockchain in KryptoJobs2Go revolutionizes the fintech hiri
 3. Run the command 'streamlit run fintech_finder.py' in the terminal.
 4. Select a candidate, input hours, and click 'Send Transaction.'
 5. Inspect the transaction details in Ganache for validation.
+
+#
+#
+## Streamlit Application
+## Ganache Transactions
+
+
