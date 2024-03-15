@@ -52,6 +52,10 @@ Integrating Ethereum blockchain in KryptoJobs2Go revolutionizes the fintech hiri
 #
 #
 ## Streamlit Application
+  ![Screenshot 2024-03-14 212340](https://github.com/du2347/Blockchain-Wallets/assets/144859613/108b4fd9-bb0c-4b96-9a4e-3a77a5da60ff)
+
+  ![Screenshot 2024-03-14 183557](https://github.com/du2347/Blockchain-Wallets/assets/144859613/022b79a0-ad14-41d1-ae24-a8394169ba63)
+
 ## Ganache Transactions
 
 
