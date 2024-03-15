@@ -56,6 +56,6 @@ Integrating Ethereum blockchain in KryptoJobs2Go revolutionizes the fintech hiri
 
   ![Screenshot 2024-03-14 183557](https://github.com/du2347/Blockchain-Wallets/assets/144859613/022b79a0-ad14-41d1-ae24-a8394169ba63)
 
-## Ganache Transactions
+
 
 
